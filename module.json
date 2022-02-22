@@ -1,0 +1,6 @@
+{
+	"repo" : "git@github.com:WebArtWork/ngx-html.git",
+	"dependencies" : {
+		"ngx-tinymce": "^13.0.0"
+	}
+}
